@@ -1,0 +1,23 @@
+{
+  "name": "PomodoroApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirSmallPond/PomodoroApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirSmallPond/PomodoroApp/issues"
+  },
+  "homepage": "https://github.com/SirSmallPond/PomodoroApp#readme",
+  "devDependencies": {
+    "electron": "1.8.2"
+  }
+}
